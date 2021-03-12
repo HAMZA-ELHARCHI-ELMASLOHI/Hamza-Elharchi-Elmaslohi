@@ -2,7 +2,7 @@
 #### I am Hamza, a Data Science Student at Cadi Ayyad University
 ![I am Hamza, a Data Science Student at Cadi Ayyad University](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)
 
-I made this project just for fun, it allows you to create nice and simple 
+I made this just for fun.
 
 Skills: PYTHON / C / JAVA / JS / HTML / CSS
 
