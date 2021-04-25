@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hamza Elharchi Elmaslohi
 #### I am Hamza, a Data Science Student at Cadi Ayyad University
-![I am Hamza, a Data Science Student at Cadi Ayyad University](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)
+![I am Hamza, a Data Science Student at Cadi Ayyad University]
 
 I made this just for fun.
 
