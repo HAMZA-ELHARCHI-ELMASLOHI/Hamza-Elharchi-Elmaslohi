@@ -1,16 +1,30 @@
-### Hi there 👋, my name is Hamza Elharchi Elmaslohi
-#### I am Hamza, a Data Science Student at Cadi Ayyad University
-![I am Hamza, a Data Science Student at Cadi Ayyad University]
+### Hi there 👋
 
-I made this just for fun.
+My name is Hamza Elharchi Elmaslohi, a Data Science Student at Cadi Ayyad University.
 
-Skills: PYTHON / C / JAVA / JS / HTML / CSS
+I love Competitive Programming, Interested in all things Data, Python, Web Dev...
 
-- 🔭 I’m currently working on this page. 
+Technical Skills: 
+  - Programming languages :Python, JavaScript, C
+  - Databases :SQL
+  - Data Science :Numpy, Pandas, Matplotlib
+  - Web Devolepment: Flask, HTML/CSS)
+  - Others :Git
+
+[You can find me on LinkedIn](https://www.linkedin.com/in/hamza-elharchi-elmaslohi-59248919b/)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HAMZA-ELHARCHI-ELMASLOHI )      
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hamza-elharchi-elmaslohi-59248919b/)       
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/elharchi_hamza)  
+<!--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza)](https://github.com/anuraghazra/github-readme-stats)
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
