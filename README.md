@@ -1,15 +1,17 @@
 ### Hi there 👋
 
-My name is Hamza Elharchi Elmaslohi, a Data Science Student at Cadi Ayyad University.
+My name is Hamza Elharchi Elmaslohi, a Big Data Student at Mohammed V University.
 
 I love Competitive Programming, Interested in all things Data, Python, Web Dev...
 
-Technical Skills: 
-  - Programming languages :Python, JavaScript, C
-  - Databases :SQL (MySQL, PostgreSQL)
-  - Data Science :Numpy, Pandas, Matplotlib
-  - Web Devolepment: Django, Flask, HTML/CSS
-  - Others :Git
+Technical Skills: <br /> 
+
+  * Programming Language: Python - JavaScript - C -Java <br /> 
+  * Data Science: TensorFlow - Keras - Scikit-learn - Numpy - Pandas - Matplotlib <br /> 
+  * Data Engineering & BI: Hadoop - Spark - Airflow - ETL - PowerBI <br /> 
+  * Web Technologies: Django - Flask - ReactJS - Bootstrap - Chart.js <br /> 
+  * DBMS: PostgreSQL - Oracle - MongoDB <br /> 
+  * Others: Git/GitHub - Linux - Docker - Selenium - Scrapy, Agile/Scrum <br /> 
 
 [You can find me on LinkedIn](https://www.linkedin.com/in/hamza-elharchi-elmaslohi-59248919b/)
 
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
@@ -46,3 +48,4 @@ Here are some ideas to get you started:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://help.ubuntu.com/community/UsingTheTerminal/)
 
 <br />
+-->
