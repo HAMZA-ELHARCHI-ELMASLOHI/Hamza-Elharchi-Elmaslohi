@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-My name is Hamza Elharchi Elmaslohi, a Big Data Student at Mohammed V University.
+My name is Hamza Elharchi Elmaslohi, a Data Science Student at Eötvös Loránd University.
 
-I love Competitive Programming, Interested in all things Data, Python, Web Dev...
+I love Competitive Programming and am interested in all things Data, Python, Web Dev...
 
 Technical Skills: <br /> 
 
   * Programming Language: Python - JavaScript - C -Java <br /> 
-  * Data Science: TensorFlow - Keras - Scikit-learn - Numpy - Pandas - Matplotlib <br /> 
-  * Data Engineering & BI: Hadoop - Spark - Airflow - ETL - PowerBI <br /> 
-  * Web Technologies: Django - Flask - ReactJS - Bootstrap - Chart.js <br /> 
-  * DBMS: PostgreSQL - Oracle - MongoDB <br /> 
-  * Others: Git/GitHub - Linux - Docker - Selenium - Scrapy, Agile/Scrum <br /> 
+  * Data Science: Pytorch - Keras - Scikit-learn - Numpy - Pandas - Matplotlib <br /> 
+  * Data Engineering & BI: Hadoop - Spark - Airflow - PowerBI <br /> 
+  * Web Technologies: Django - Flask - ReactJS - Tailwind - Chart.js <br /> 
+  * DBMS: PostgreSQL - MongoDB <br /> 
+  * Others: AWS, Git/GitHub - Linux - Docker - Selenium - Scrapy <br /> 
 
 [You can find me on LinkedIn](https://www.linkedin.com/in/hamza-elharchi-elmaslohi-59248919b/)
 
